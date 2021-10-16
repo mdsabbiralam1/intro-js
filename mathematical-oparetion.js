@@ -10,4 +10,23 @@ var priceDifference = onionPrice - eggPrice;
 var penPrice = 5;
 var penQuantity = 15;
 var penPriceMultiplication = penPrice * penQuantity;
-console.log(penPriceMultiplication);
+// console.log(penPriceMultiplication);
+
+var orangePrice = 5;
+var moneyAvalable = 100;
+var orangeQuantity = moneyAvalable / orangePrice;
+// console.log(orangeQuantity);
+
+var pcPrice = 35000;
+var mobilePrice = 20000;
+var totalPrice1 = pcPrice + mobilePrice;
+console.log(totalPrice1);
+
+var priceDifference1 = pcPrice - mobilePrice;
+console.log(priceDifference1);
+
+
+var mangoPrice = 60;
+var mangoQuanty = 5;
+var mangoPriceMultiplication = mangoPrice * mangoQuanty;
+console.log(mangoPriceMultiplication);
