@@ -25,3 +25,20 @@ var totalNewPrice = onionPriceNumber + eggPriceNumber;
 console.log(totalNewPrice);
 
 
+
+// Recap 
+var first = 'Rana';
+var last = 'Vai';
+var fullName = first + ' ' + last;
+console.log(fullName);
+
+
+// parseInt and parseFloat
+var bananaPrice = '54.78';
+var applePrice = '50';
+
+// convert
+var bananaPriceNumber = parseFloat(bananaPrice);
+var applePriceNumber = parseInt(applePrice);
+var totalFoodPrice = bananaPriceNumber + applePriceNumber;
+console.log(totalFoodPrice);
