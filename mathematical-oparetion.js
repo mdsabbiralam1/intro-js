@@ -30,3 +30,12 @@ var mangoPrice = 60;
 var mangoQuanty = 5;
 var mangoPriceMultiplication = mangoPrice * mangoQuanty;
 console.log(mangoPriceMultiplication);
+
+
+// spacial edition
+var firstNumber = 0.1;
+var lastNumber = 0.2;
+var total = firstNumber + lastNumber;
+var totalFixed = (total.toFixed(2));
+var totalNumber = parseFloat(totalFixed);
+console.log(totalNumber);
