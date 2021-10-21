@@ -38,4 +38,24 @@ var lastNumber = 0.2;
 var total = firstNumber + lastNumber;
 var totalFixed = (total.toFixed(2));
 var totalNumber = parseFloat(totalFixed);
-console.log(totalNumber);
+// console.log(totalNumber);
+
+
+
+
+// recap spacial editoin
+var rakib = 0.1;
+var sakib = 0.2;
+var total = sakib + rakib;
+total = total.toFixed(1);
+total = parseFloat(total);
+// console.log(total);
+
+
+
+var as = 0.2;
+var bs = 0.1;
+var total = as + bs;
+total = total.toFixed(2);
+total = parseFloat(total);
+console.log(total);
